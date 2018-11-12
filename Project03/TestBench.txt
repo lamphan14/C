@@ -1,0 +1,129 @@
+
+Student 2 takes a seat. Waiting students = 1 .
+Student 3 takes a seat.
+Student 1 takes a seat. Waiting students = 2 . Waiting students = 3 .
+Student 4 takes a seat.
+Student 5 takes a seat. Waiting students = 4 . Waiting students = 5 .
+Tutor 1 helping student for 3 seconds. Waiting students = 5 .
+Tutor 2 helping student for 3 seconds. Waiting students = 4 .
+Tutor 3 helping student for 3 seconds. Waiting students = 3 .
+Student 6 takes a seat. Waiting students = 3 .
+Student 8 takes a seat. Waiting students = 4 .
+Student 7 found no empty chair and will try later.
+Student 9 found no empty chair and will try later.
+Student 10 found no empty chair and will try later.
+Student 9 found no empty chair and will try later.
+Student 10 found no empty chair and will try later.
+Student 7 found no empty chair and will try later.
+Tutor 3 helping student for 1 seconds. Waiting students = 4 .
+Tutor 1 helping student for 1 seconds. Waiting students = 3 .
+Tutor 2 helping student for 1 seconds. Waiting students = 2 .
+Tutor 1 helping student for 3 seconds. Waiting students = 1 .
+Student 1 takes a seat. Waiting students = 1 .
+Tutor 2 helping student for 3 seconds. Waiting students = 1 .
+Student 3 takes a seat. Waiting students = 1 .
+Student 2 takes a seat.
+Tutor 3 helping student for 3 seconds. Waiting students = 2 . Waiting students = 2 .
+Student 9 takes a seat. Waiting students = 2 .
+Student 10 takes a seat. Waiting students = 3 .
+Student 7 takes a seat. Waiting students = 4 .
+Student 4 found no empty chair and will try later.
+Student 5 found no empty chair and will try later.
+Student 6 found no empty chair and will try later.
+Tutor 3 helping student for 3 seconds. Waiting students = 4 .
+Tutor 2 helping student for 3 seconds. Waiting students = 3 .
+Tutor 1 helping student for 3 seconds. Waiting students = 2 .
+Student 8 takes a seat. Waiting students = 2 .
+Student 5 takes a seat. Waiting students = 3 .
+Student 4 takes a seat. Waiting students = 4 .
+Student 6 found no empty chair and will try later.
+Student 1 found no empty chair and will try later.
+Tutor 3 helping student for 1 seconds. Waiting students = 4 .
+Tutor 2 helping student for 1 seconds. Waiting students = 3 .
+Student 3 takes a seat. Waiting students = 3 .
+Tutor 1 helping student for 1 seconds. Waiting students = 3 .
+Tutor 1 helping student for 1 seconds. Waiting students = 2 .
+Tutor 3 helping student for 1 seconds. Waiting students = 1 .
+Student 6 takes a seat. Waiting students = 1 .
+Tutor 2 helping student for 1 seconds. Waiting students = 1 .
+Student 9 takes a seat. Waiting students = 1 .
+Tutor 1 helping student for 2 seconds. Waiting students = 1 .
+Student 2 takes a seat. Waiting students = 1 .
+Student 1 takes a seat. Waiting students = 2 .
+Student 10 takes a seat. Waiting students = 3 .
+Tutor 3 helping student for 2 seconds. Waiting students = 3 .
+Tutor 2 helping student for 2 seconds. Waiting students = 2 .
+Student 6 takes a seat. Waiting students = 2 .
+Student 5 takes a seat. Waiting students = 3 .
+Student 7 takes a seat. Waiting students = 4 .
+Student 8 found no empty chair and will try later.
+Student 3 found no empty chair and will try later.
+Student 4 found no empty chair and will try later.
+Tutor 1 helping student for 1 seconds. Waiting students = 4 .
+Tutor 2 helping student for 1 seconds. Waiting students = 3 .
+Tutor 3 helping student for 1 seconds. Waiting students = 2 .
+Student 9 takes a seat. Waiting students = 2 .
+Student 4 takes a seat. Waiting students = 3 .
+Student 3 takes a seat. Waiting students = 4 .
+Tutor 1 helping student for 3 seconds. Waiting students = 4 .
+Student 1 takes a seat. Waiting students = 4 .
+Tutor 3 helping student for 3 seconds. Waiting students = 4 .
+Tutor 2 helping student for 3 seconds. Waiting students = 3 .
+Student 8 takes a seat. Waiting students = 3 .
+Student 10 takes a seat. Waiting students = 4 .
+Student 6 found no empty chair and will try later.
+Student 5 found no empty chair and will try later.
+Student 2 found no empty chair and will try later.
+Student 5 found no empty chair and will try later.
+Student 2 found no empty chair and will try later.
+Tutor 2 helping student for 2 seconds. Waiting students = 4 .
+Tutor 3 helping student for 2 seconds. Waiting students = 3 .
+Tutor 1 helping student for 2 seconds. Waiting students = 2 .
+Student 6 takes a seat. Waiting students = 2 .
+Student 4 takes a seat. Waiting students = 3 .
+Student 7 takes a seat. Waiting students = 4 .
+Student 9 found no empty chair and will try later.
+Student 2 found no empty chair and will try later.
+Student 5 found no empty chair and will try later.
+Student 5 found no empty chair and will try later.
+Tutor 2 helping student for 1 seconds. Waiting students = 4 .
+Tutor 3 helping student for 1 seconds. Waiting students = 3 .
+Tutor 1 helping student for 1 seconds. Waiting students = 2 .
+Student 9 takes a seat. Waiting students = 2 .
+Student 2 takes a seat. Waiting students = 3 .
+Student 8 takes a seat. Waiting students = 4 .
+Tutor 1 helping student for 3 seconds. Waiting students = 4 .
+Tutor 3 helping student for 3 seconds. Waiting students = 3 .
+Tutor 2 helping student for 3 seconds. Waiting students = 2 .
+Student 1 takes a seat. Waiting students = 2 .
+Student 3 takes a seat. Waiting students = 3 .
+Student 6 takes a seat. Waiting students = 4 .
+Student 10 found no empty chair and will try later.
+Student 5 found no empty chair and will try later.
+Student 4 found no empty chair and will try later.
+Tutor 2 helping student for 1 seconds. Waiting students = 4 .
+Tutor 3 helping student for 1 seconds. Waiting students = 3 .
+Tutor 1 helping student for 1 seconds. Waiting students = 2 .
+Student 10 takes a seat. Waiting students = 2 .
+Student 4 takes a seat. Waiting students = 3 .
+Student 5 takes a seat. Waiting students = 4 .
+Student 2 found no empty chair and will try later.
+Tutor 1 helping student for 3 seconds. Waiting students = 4 .
+Tutor 3 helping student for 3 seconds. Waiting students = 3 .
+Student 9 takes a seat. Waiting students = 3 .
+Tutor 2 helping student for 3 seconds. Waiting students = 3 .
+Student 7 takes a seat. Waiting students = 3 .
+Student 8 takes a seat. Waiting students = 4 .
+Student 2 found no empty chair and will try later.
+Tutor 1 helping student for 1 seconds. Waiting students = 4 .
+Tutor 3 helping student for 1 seconds. Waiting students = 3 .
+Tutor 2 helping student for 1 seconds. Waiting students = 2 .
+Tutor 3 helping student for 3 seconds. Waiting students = 1 .
+Student 10 takes a seat. Waiting students = 1 .
+Tutor 2 helping student for 3 seconds. Waiting students = 1 .
+Student 2 takes a seat. Waiting students = 1 .
+Tutor 1 helping student for 3 seconds. Waiting students = 1 .
+Student 5 takes a seat. Waiting students = 1 .
+Student 7 takes a seat. Waiting students = 2 .
+Tutor 2 helping student for 1 seconds. Waiting students = 2 .
+Tutor 3 helping student for 1 seconds. Waiting students = 1 .
