@@ -1,0 +1,96 @@
+Last login: Mon Feb  5 19:17:20 on ttys000
+Lams-MacBook-Pro:~ lamphan$ ls
+Applications	Downloads	Movies		Public
+Desktop		IdeaProjects	Music		iverilog
+Documents	Library		Pictures
+Lams-MacBook-Pro:~ lamphan$ cd Desktop
+Lams-MacBook-Pro:Desktop lamphan$ gcc -o lamphan lamphan.c
+Lams-MacBook-Pro:Desktop lamphan$ ./lamphan
+mysh ----- type 'exit' to exit this myshell -----
+$ls -l
+total 274424
+drwxr-xr-x   3 lamphan  staff         96 Feb  5 11:04 Advance Alg
+drwxr-xr-x  12 lamphan  staff        384 Feb  5 14:33 OSclass
+drwxr-xr-x  17 lamphan  staff        544 Feb  5 11:04 ReEng CS4351
+drwxr-xr-x   5 lamphan  staff        160 Feb  5 11:05 cs3162_ethics
+drwxr-xr-x  15 lamphan  staff        480 Feb  5 11:07 cs4341
+-rwxr-xr-x   1 lamphan  staff      14368 Feb  5 22:54 lamphan
+-rw-r--r--@  1 lamphan  staff       4778 Feb  5 22:52 lamphan.c
+drwxr-xr-x   8 lamphan  staff        256 Feb  5 11:04 organization of programming
+-rwxr-xr-x   1 lamphan  staff      14432 Feb  5 18:53 p4
+-rwxr-xr-x   1 lamphan  staff      10176 Feb  5 19:17 p5
+-rw-r--r--@  1 lamphan  staff       4541 Feb  5 19:05 p5.c
+-rw-r--r--@  1 lamphan  staff   27696231 Nov 16 19:02 python-3.6.3-macosx10.6.pkg
+-rw-r--r--@  1 lamphan  staff  112702083 Feb  5 10:37 racket-6.12-x86_64-macosx.dmg
+drwxr-xr-x  14 lamphan  staff        448 Feb  5 11:06 se3345
+drwxr-xr-x  19 lamphan  staff        608 Feb  5 11:07 se3377
+-rw-r--r--@  1 lamphan  staff        162 Jan 31 22:43 ~$ #4 Video Assignment.docx
+-rw-r--r--@  1 lamphan  staff        162 Nov 10 01:39 ~$3377.0W2_A10_LPhan.docx
+-rw-r--r--@  1 lamphan  staff        162 Oct 21 04:13 ~$3377_Experiement_A08_lphan.docx
+-rw-r--r--@  1 lamphan  staff        162 Nov  9 23:57 ~$345.002_A07_LPhan.docx
+-rw-r--r--@  1 lamphan  staff        162 Feb  5 10:58 ~$HW #1.docx
+-rw-r--r--@  1 lamphan  staff        162 Jan 28 19:24 ~$HW #2.docx
+-rw-r--r--@  1 lamphan  staff        162 Feb  5 11:06 ~$mework6.docx
+-rw-r--r--@  1 lamphan  staff        162 Jan 29 22:16 ~$q5.docx
+-rw-r--r--@  1 lamphan  staff        162 Dec  9 14:23 ~$signment 08.docx
+-rw-r--r--@  1 lamphan  staff        162 Nov 29 14:13 ~$thon_report.docx
+$ls
+Advance Alg				se3345
+OSclass					se3377
+ReEng CS4351				~$ #4 Video Assignment.docx
+cs3162_ethics				~$3377.0W2_A10_LPhan.docx
+cs4341					~$3377_Experiement_A08_lphan.docx
+lamphan					~$345.002_A07_LPhan.docx
+lamphan.c				~$HW #1.docx
+organization of programming		~$HW #2.docx
+p4					~$mework6.docx
+p5					~$q5.docx
+p5.c					~$signment 08.docx
+python-3.6.3-macosx10.6.pkg		~$thon_report.docx
+racket-6.12-x86_64-macosx.dmg
+$cd cs4341
+$ls
+A04se3354designSensorKey(1).pdf
+HW 6
+Homework6.docx
+Lecture 11-Sequential Logic, Part 1.pdf
+Lecture 12, Sequential Logic, Part 2.pdf
+Lecture 13-Datapaths(1).pdf
+Lecture 14-Factoring Finite-State Machines.pdf
+Lecture 15-Timing Constraints.pdf
+Midterm 2 Review(2).pdf
+Simple_Calculator_Verilog_Digital_Systems_Design_CompE340.pdf
+cal1.txt
+pics
+$history
+ls -l
+ls
+cd cs4341
+ls
+history
+$history -c
+ls -l
+ls
+cd cs4341
+ls
+history
+history -c
+$history
+ls -l
+ls
+cd cs4341
+ls
+history
+history -c
+history
+$ls | wc
+      12      30     342
+$ls -l | wc
+      13     128     978
+$cd | wc
+$ls | cd
+$cd .. | wc
+$cd.. | wc
+       1       5      32
+$exit
+Lams-MacBook-Pro:Desktop lamphan$ 
